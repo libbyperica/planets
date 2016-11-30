@@ -4,3 +4,5 @@ The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 This line added to Wolfman's copy
 This is the second line
+Adding something different
+We added a different line in the other copy
